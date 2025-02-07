@@ -3,7 +3,7 @@ Welcome to the Java-DSA repository! This repo contains a collection of algorithm
 
 📚 What’s Inside?
 Basic Algorithms: Learn fundamental concepts like sorting, searching, and basic data structures.
-Advanced Algorithms: Explore more complex algorithms like graph theory, dynamic programming, and machine learning techniques.
+Advanced Algorithms: Explore more complex algorithms like graph theory, dynamic programming, and sorting techniques.
 Methods & Techniques: Dive into problem-solving techniques, optimization methods, and more.
 🤝 How You Can Contribute
 Collaborate: Engage with others, ask questions, and help out in discussions.
