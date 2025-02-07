@@ -1,0 +1,27 @@
+package com.linearalgo;
+
+public class findMinMax {
+    public static void main(String[] args) {
+        int [] arr = {18, 12, -7, 3, 14, 28, 100};
+        System.out.println("This is the smallest number in the given array: " + " " + min(arr));
+        System.out.println("This is the largest number in the given array: " + " " + max(arr));
+    }
+   static int min(int[] arr){
+        int ans = arr[0];
+        for (int i = 1; i < arr.length; i++) {
+            if (arr[i] < ans) {
+                ans = arr[i];
+            }
+        }
+        return ans;
+    }
+    static int max(int[] arr){
+        int ans = arr[0];
+        for(int i = 1; i < arr.length; i++) {
+            if (arr[i] > ans) {
+                ans = arr[i];
+            }
+        }
+        return ans;
+    }
+}
