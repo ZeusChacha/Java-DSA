@@ -1,7 +1,5 @@
 package com.Tree;
 
-import java.lang.reflect.GenericDeclaration;
-
 class AVL {
     public AVL(){
 
